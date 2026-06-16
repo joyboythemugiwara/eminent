@@ -8,6 +8,8 @@ import { Button } from "@/components/ui/button";
 import { GraduationCap, ArrowRight, Zap, Sparkles, BookOpen, Search, ArrowUpRight } from "lucide-react";
 import { Metadata } from "next";
 
+export const dynamic = 'force-dynamic';
+
 export const metadata: Metadata = {
   title: "Explore Academic Levels",
   description: "Browse our comprehensive list of academic classes and levels. Find expert-verified study notes and subjects for Class 9, 10, 11, and 12.",

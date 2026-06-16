@@ -1,3 +1,5 @@
+export const dynamic = 'force-dynamic';
+
 import { fetchApi } from "@/lib/api";
 import { Card, CardContent, CardHeader, CardTitle } from "@/components/ui/card";
 import { Button } from "@/components/ui/button";
