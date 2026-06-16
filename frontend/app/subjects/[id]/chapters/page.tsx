@@ -6,7 +6,7 @@ import { Button } from "@/components/ui/button";
 import { Card, CardContent } from "@/components/ui/card";
 import { Badge } from "@/components/ui/badge";
 import { Separator } from "@/components/ui/separator";
-import { Download, FileText, ChevronRight, Home, BookOpen, Eye, Sparkles, LayoutGrid, Info, Search } from "lucide-react";
+import { Download, FileText, ChevronRight, Home, BookOpen, Eye, Sparkles, LayoutGrid, Info, Search, Zap } from "lucide-react";
 import {
   Breadcrumb,
   BreadcrumbItem,

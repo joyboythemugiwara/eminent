@@ -136,7 +136,7 @@ function SortableRow({
             variant="ghost" 
             size="icon" 
             className="h-10 w-10 rounded-xl text-slate-400 hover:text-destructive hover:bg-destructive/5 transition-all"
-            onClick={() => onDelete(cls.id)}
+            onClick={() => onDelete(Number(cls.id))}
           >
             <Trash2 className="h-4 w-4" />
           </Button>
